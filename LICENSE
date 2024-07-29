@@ -1,0 +1,2 @@
+
+With these changes, the `resume-parser-ai` package will parse resumes from PDF and DOCX files, extract the text, and use the OpenAI API to format it into a structured JSON format, adhering to the specified structure and using the provided API call format.
